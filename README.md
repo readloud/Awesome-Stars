@@ -5,7 +5,8 @@
 ![Total](https://img.shields.io/badge/Total-6807-green.svg)
 ![Date](https://img.shields.io/badge/Date-2021--01--09-blue.svg)
 
-## Contents
+<details>
+<summary>Contents</summary>
 
   - [ASL (1)](#asl-1)
   - [ASP.NET (1)](#aspnet-1)
@@ -95,6 +96,8 @@
   - [Zeek (1)](#zeek-1)
   - [Zig (1)](#zig-1)
   - [nesC (1)](#nesc-1)
+  
+</details>
 
 ## ASL (1) 
 
